@@ -15,10 +15,8 @@
   </samp>
 </p>
 <br />
-
 <!-- About Section -->
  # About me
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -27,10 +25,8 @@
  📧 &emsp; For questions do not hesitate to contact me! <br/><br/>
 
 </p>
-
 <br/>
 <br/>
-
 
 ## Top Open Source -
 [![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
