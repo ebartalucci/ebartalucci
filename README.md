@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Hello!, I am
                 <b>Ettore Bartalucci</b>
         </samp>
-</h3>
+</h2>
 
 <p align="center"> 
   <samp>
