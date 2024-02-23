@@ -1,9 +1,9 @@
 <!-- Intro  -->
-<h2 align="center">
+<h1 align="center">
         <samp>&gt; Hello!, I am
                 <b>Ettore Bartalucci</b>
         </samp>
-</h2>
+</h1>
 
 <p align="center"> 
   <samp>
@@ -22,7 +22,7 @@
   
  ✌️ &emsp; Working on applications of Nuclear Magnetic Resonance Spectroscopy <br/><br/>
  ❤️ &emsp; Enjoying programming and calculations <br/><br/>
- 📧 &emsp; For questions do not hesitate to contact me! <br/><br/>
+ 📧 &emsp; For questions do not hesitate to contact me! ettore.bartalucci@proton.me <br/><br/>
 
 </p>
 <br/>
