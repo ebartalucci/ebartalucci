@@ -16,8 +16,10 @@
 </p>
 <br />
 
+## Some more recent projects -
+[![Working on it](...)
 
-## Some recent projects -
+## PhD projects -
 [![CF3_self_decoupling](https://github-readme-stats.vercel.app/api/pin/?username=ebartalucci&repo=CF3_self_decoupling&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ebartalucci/CF3_self_decoupling.git)
 [![Mechanochemistry with Solid-state NMR](https://github-readme-stats.vercel.app/api/pin/?username=ebartalucci&repo=Mechanochemistry_ChemEurJ&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ebartalucci/Mechanochemistry_ChemEurJ.git)
 [![NONCOV](https://github-readme-stats.vercel.app/api/pin/?username=ebartalucci&repo=NONCOV&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ebartalucci/NONCOV.git)
