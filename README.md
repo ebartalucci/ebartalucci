@@ -9,24 +9,13 @@
   <samp>
     <a href="https://scholar.google.com/citations?user=kEMqG14AAAAJ&hl=it&oi=ao">「 Find Me on Scholar 」</a>
     <br>
-    [ I am a NMR spectroscopist in my third year of PhD at <b>Max Planck Institute CEC</b> ]
+    [ Postdoc @ <b>EPFL</b> ]
     <br>
     <br>
   </samp>
 </p>
 <br />
 
- ## About me
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Working on applications of Nuclear Magnetic Resonance Spectroscopy <br/><br/>
- ❤️ &emsp; Enjoying programming and calculations <br/><br/>
- 📧 &emsp; For questions do not hesitate to contact me! ettore.bartalucci@proton.me <br/><br/>
-
-</p>
-<br/>
-<br/>
 
 ## Some recent projects -
 [![CF3_self_decoupling](https://github-readme-stats.vercel.app/api/pin/?username=ebartalucci&repo=CF3_self_decoupling&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ebartalucci/CF3_self_decoupling.git)
