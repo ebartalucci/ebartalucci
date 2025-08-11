@@ -16,7 +16,7 @@
 </p>
 <br />
 
-## Some more recent projects -
+## Postdoc Projects -
 [![Working on it](...)
 
 ## PhD projects -
